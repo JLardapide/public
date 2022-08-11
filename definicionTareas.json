@@ -1,0 +1,25 @@
+[
+  {
+    "slot": "INSTITUTION_HOME_PAGE",
+    "componentName": "custom-debug",
+    "url": "http://127.0.0.1:5005/elements.js"
+  },
+  {
+    "slot": "HOME",
+    "componentName": "custom-debug",
+    "url": "http://127.0.0.1:5005/elements.js",
+    "title": "Tareas"
+  },
+  {
+    "slot": "HOME_MENU",
+    "componentName": "ng-snake",
+    "url": "https://gogakoreli.github.io/angular-snake-web-component/snake-web-component.js",
+    "title": "Snake"
+  },
+  {
+    "slot": "CLINIC_HISTORY_TAB",
+    "componentName": "ng-snake",
+    "url": "https://gogakoreli.github.io/angular-snake-web-component/snake-web-component.js",
+    "title": "Snake"
+  }
+]
