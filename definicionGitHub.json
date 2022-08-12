@@ -2,7 +2,7 @@
   {
     "slot": "HOME_MENU",
     "componentName": "custom-debug",
-    "url": "https://raw.githubusercontent.com/JLardapide/public/main/debugComponent.js",
+    "url": "https://raw.githubusercontent.com/JLardapide/public/main/elements.js",
     "title": "Info Navegador"
   },
     {
