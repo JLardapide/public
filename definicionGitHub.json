@@ -1,9 +1,9 @@
 [
   {
     "slot": "HOME_MENU",
-    "componentName": "ng-snake",
-    "url": "https://gogakoreli.github.io/angular-snake-web-component/snake-web-component.js",
-    "title": "Snake"
+    "componentName": "custom-debug",
+    "url": "https://raw.githubusercontent.com/JLardapide/public/main/debugComponent.js",
+    "title": "Info Navegador"
   },
   {
     "slot": "CLINIC_HISTORY_TAB",
